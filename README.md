@@ -8,8 +8,8 @@
 
 ## Contents
 
-(1) Excel files contaning the aggregate data for collected measures
-(2) Full set of stimuli used in the study along with source data visualizations
-(3) Regression Analysis results (factor loadings, regression coefficients, significance)
-(4) Demographic data of participants from Experiments
-(5) Full version of this paper with all appendices.
+* Excel files contaning the aggregate data for collected measures
+* Full set of stimuli used in the study along with source data visualizations
+* Regression Analysis results (factor loadings, regression coefficients, significance)
+* Demographic data of participants from Experiments
+* Full version of this paper with all appendices.
